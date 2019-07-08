@@ -1,0 +1,99 @@
+---
+
+Dream:
+
+  first:
+    emplyee:
+      - Olya1:
+        gender: woman
+        position: accountant
+      - Olya2:
+        gender: woman
+        position: accountant
+      - Olya3:
+        gender: woman
+        position: accountant
+      - Olya4:
+        gender: woman
+        position: accountant
+      - Dmitry1:
+        gender: man
+      - Dmitry2:
+        gender: man
+      - Dmitry3:
+        gender: man
+      - Ivan1:
+        gender: man
+      - Ivan2:
+        gender: man
+    cost: 6
+
+  second:
+    coast: 4
+    age: under 30
+    employee:
+      - Roman1:
+        gender: man
+        position: lawyer
+      - Roman2:
+        gender: man
+        position: lawyer
+      - Roman3:
+        gender: man
+        position: lawyer
+      - Roman4:
+        gender: man
+        position: lawyer
+      - Maksim1:
+        gender: man
+        position: driver
+      - Maksim2:
+        gender: man
+        position: driver
+
+  third:
+    employee:
+      - Olya:
+        gender: woman
+        position: lawyer
+      - Ivan:
+        gender: man
+        position: builder
+      - Nikolay:
+        gender: man
+        position: builder
+    cost: 4
+
+  fourth:
+    age: more than 30
+    employee:
+      - Julia1:
+        gender: woman
+        position: paperwork
+      - Julia2:
+        gender: woman
+        position: paperwork
+      - Julia3:
+        gender: woman
+        position: paperwork
+      - Julia4:
+        gender: woman
+        position: paperwork
+      - Julia5:
+        gender: woman
+        position: paperwork
+    cost: 4
+
+  fifth:
+    employee:
+    age: oldest
+    cost: 5
+
+  sixth:
+    employee:
+      - Igor Victorovich:
+        gender: man
+        position: director of security
+        age: more than 50
+    cost: 4
+---
